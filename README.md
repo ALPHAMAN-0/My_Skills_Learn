@@ -4,11 +4,7 @@ In my two years of university life, I learned different skill-based topics such 
 ## Architecture / How it Works
 
 ```mermaid
-flowchart LR
-    A[User] --> B[My Skills Learn]
-    B --> C{Logic}
-    C --> D[(Data)]
-    C --> E[Output]
-    D --> C
+flowchart TD
+    Repo_Notes[Repo Notes]
 ```
 
